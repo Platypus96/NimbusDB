@@ -1,4 +1,4 @@
-package memtable;
+﻿package memtable;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Iterator;
@@ -36,3 +36,4 @@ public class Memtable implements Iterable<Map.Entry<String, String>> {
         return table.entrySet().iterator();
     }
 }
+// TODO: review performance here
