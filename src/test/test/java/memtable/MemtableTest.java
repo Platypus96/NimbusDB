@@ -1,4 +1,4 @@
-package memtable;
+﻿package memtable;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -50,3 +50,4 @@ public class MemtableTest {
         assertFalse(it.hasNext());
     }
 }
+// TODO: review performance here
