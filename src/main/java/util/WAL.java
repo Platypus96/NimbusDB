@@ -1,4 +1,4 @@
-package util;
+﻿package util;
 
 import memtable.Memtable;
 
@@ -44,3 +44,4 @@ public class WAL {
         return filePath;
     }
 }
+// TODO: review performance here
