@@ -1,4 +1,4 @@
-package sstable;
+﻿package sstable;
 
 import memtable.Memtable;
 import org.junit.jupiter.api.AfterAll;
@@ -79,3 +79,4 @@ public class SSTableConstructTest {
         sstable.delete();
     }
 }
+// TODO: review performance here
