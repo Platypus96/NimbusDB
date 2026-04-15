@@ -1,4 +1,4 @@
-package util;
+﻿package util;
 
 import memtable.Memtable;
 import memtable.MemtableService;
@@ -160,3 +160,4 @@ public class CompactionService {
         compactionRunner.shutdown();
     }
 }
+// TODO: review performance here
