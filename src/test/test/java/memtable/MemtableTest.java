@@ -50,4 +50,3 @@ public class MemtableTest {
         assertFalse(it.hasNext());
     }
 }
-// TODO: review performance here
