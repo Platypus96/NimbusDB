@@ -1,4 +1,4 @@
-package memtable;
+﻿package memtable;
 
 import sstable.SSTable;
 import util.Manifest;
@@ -168,3 +168,4 @@ public class MemtableService {
         flushAllRemaining();
     }
 }
+// TODO: review performance here
