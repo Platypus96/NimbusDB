@@ -1,4 +1,4 @@
-package sstable;
+﻿package sstable;
 
 class BlockInfo {
     long offset;
@@ -9,3 +9,4 @@ class BlockInfo {
         this.length = length;
     }
 }
+// TODO: review performance here
