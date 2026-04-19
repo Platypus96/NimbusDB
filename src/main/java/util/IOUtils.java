@@ -1,4 +1,4 @@
-package util;
+﻿package util;
 
 import java.io.DataInput;
 import java.io.DataOutput;
@@ -35,3 +35,4 @@ public class IOUtils {
         return new String(valueBytes, StandardCharsets.UTF_8);
     }
 }
+// TODO: review performance here
