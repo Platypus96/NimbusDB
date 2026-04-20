@@ -1,4 +1,4 @@
-package core;
+﻿package core;
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -68,3 +68,4 @@ public class Main {
         }
     }
 }
+// TODO: review performance here
