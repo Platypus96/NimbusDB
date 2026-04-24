@@ -160,4 +160,3 @@ public class CompactionService {
         compactionRunner.shutdown();
     }
 }
-// TODO: review performance here
