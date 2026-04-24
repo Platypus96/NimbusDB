@@ -1,4 +1,4 @@
-package core;
+﻿package core;
 
 import util.CompactionService;
 import memtable.MemtableService;
@@ -46,3 +46,4 @@ public class DB implements AutoCloseable {
         memtableService.close();
     }
 }
+// TODO: review performance here
