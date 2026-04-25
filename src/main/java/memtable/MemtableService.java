@@ -168,4 +168,3 @@ public class MemtableService {
         flushAllRemaining();
     }
 }
-// TODO: review performance here
