@@ -144,4 +144,3 @@ public class SSTableMergeTest {
         return new SSTable(filePath, bloomFilterUtil, index, minKey, maxKey);
     }
 }
-// TODO: review performance here
