@@ -54,4 +54,3 @@ public class LSMPutBenchmark {
         new Runner(opt).run();
     }
 }
-// TODO: review performance here
