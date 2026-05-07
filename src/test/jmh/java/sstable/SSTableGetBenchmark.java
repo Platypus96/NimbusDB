@@ -81,4 +81,3 @@ public class SSTableGetBenchmark {
         new Runner(opt).run();
     }
 }
-// TODO: review performance here
