@@ -46,4 +46,3 @@ public class DB implements AutoCloseable {
         memtableService.close();
     }
 }
-// TODO: review performance here
