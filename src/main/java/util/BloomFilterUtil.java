@@ -1,4 +1,4 @@
-package util;
+﻿package util;
 
 import com.google.common.hash.BloomFilter;
 import com.google.common.hash.Funnels;
@@ -24,3 +24,4 @@ public class BloomFilterUtil {
         return bloomFilter.mightContain(key);
     }
 }
+// TODO: review performance here
