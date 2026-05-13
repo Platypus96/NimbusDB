@@ -79,4 +79,3 @@ public class SSTableConstructTest {
         sstable.delete();
     }
 }
-// TODO: review performance here
