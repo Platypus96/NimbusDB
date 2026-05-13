@@ -36,4 +36,3 @@ public class Memtable implements Iterable<Map.Entry<String, String>> {
         return table.entrySet().iterator();
     }
 }
-// TODO: review performance here
